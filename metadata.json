@@ -1,0 +1,7 @@
+{
+  "name": "Al-Nujoom POS",
+  "description": "A comprehensive Point of Sale system with Arabic support, barcode integration, VAT calculation, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
